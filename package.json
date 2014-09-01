@@ -6,6 +6,7 @@
     "compression": "^1.0.11",
     "express": "^4.8.6",
     "express-hbs": "^0.7.11",
+    "newrelic": "^1.10.3",
     "request-json": "^0.4.11",
     "serve-static": "^1.5.3"
   },
