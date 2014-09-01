@@ -8,6 +8,7 @@
     "express-hbs": "^0.7.11",
     "legends": "^1.1.0",
     "newrelic": "^1.10.3",
+    "request": "^2.40.0",
     "request-json": "^0.4.11",
     "serve-static": "^1.5.3"
   },

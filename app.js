@@ -8,10 +8,11 @@ var express     = require('express'),
     hbs         = require('express-hbs'),
     serveStatic = require('serve-static'),
     compression = require('compression'),
+    riotKey 		= require('./apikey'),
     app         = express(),
     port        = 3000;
 
-require('./routes/nexus_route.js')(app);
+require('./routes/nexus_route.js')(app, riotKey);
 // For gzip compression
 app.use(compression());
 
