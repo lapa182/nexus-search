@@ -90,9 +90,8 @@ textarea{
 
 // The normal size is applied by default
 
-/**
- * Small
- */
-.form-fields__small input[type=text], .spoken-form input[type=text]{
-
+.nexus-form {
+  &.centered {
+    width: 100%;
+  }
 }

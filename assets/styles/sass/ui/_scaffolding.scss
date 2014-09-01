@@ -4,7 +4,11 @@
 /**
  * GRID
 */
-
+.nexus-main {
+	& > section {
+		height: 380px;
+	}
+}
 
 
 
