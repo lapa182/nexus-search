@@ -21,6 +21,12 @@ app.engine('hbs', hbs.express3({
   defaultLayout: __dirname +'/views/layouts/main.hbs',
 }));
 
+app.get('/riot.html', function(req, res, next) {
+	res.render('riot.hbs', {
+		layout: null
+	});
+});
+
 app.use(express.static(__dirname + '/assets'));
 
 // Set Handlebars

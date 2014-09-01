@@ -1,0 +1,16 @@
+{"name":"newrelic","hostname":"virtue.local","pid":9134,"level":30,"msg":"Starting New Relic for Node.js connection process.","time":"2014-09-01T13:05:13.568Z","v":0}
+{"name":"newrelic","hostname":"virtue.local","pid":9134,"component":"new_relic_response","level":30,"msg":"Reporting to: https://rpm.newrelic.com/accounts/757506/applications/3758898","time":"2014-09-01T13:05:17.378Z","v":0}
+{"name":"newrelic","hostname":"virtue.local","pid":9134,"component":"collector_api","level":30,"msg":"Connected to collector-111.newrelic.com:443 with agent run ID 1439413362.","time":"2014-09-01T13:05:17.379Z","v":0}
+{"name":"newrelic","hostname":"virtue.local","pid":9275,"level":30,"msg":"Starting New Relic for Node.js connection process.","time":"2014-09-01T13:05:59.042Z","v":0}
+{"name":"newrelic","hostname":"virtue.local","pid":9275,"component":"new_relic_response","level":30,"msg":"Reporting to: https://rpm.newrelic.com/accounts/757506/applications/3758898","time":"2014-09-01T13:06:01.399Z","v":0}
+{"name":"newrelic","hostname":"virtue.local","pid":9275,"component":"collector_api","level":30,"msg":"Connected to collector-111.newrelic.com:443 with agent run ID 1439414585.","time":"2014-09-01T13:06:01.400Z","v":0}
+{"name":"newrelic","hostname":"virtue.local","pid":9295,"level":30,"msg":"Starting New Relic for Node.js connection process.","time":"2014-09-01T13:06:14.552Z","v":0}
+{"name":"newrelic","hostname":"virtue.local","pid":9295,"component":"new_relic_response","level":30,"msg":"Reporting to: https://rpm.newrelic.com/accounts/757506/applications/3758898","time":"2014-09-01T13:06:17.926Z","v":0}
+{"name":"newrelic","hostname":"virtue.local","pid":9295,"component":"collector_api","level":30,"msg":"Connected to collector-111.newrelic.com:443 with agent run ID 1439415129.","time":"2014-09-01T13:06:17.927Z","v":0}
+{"name":"newrelic","hostname":"virtue.local","pid":9386,"level":30,"msg":"Starting New Relic for Node.js connection process.","time":"2014-09-01T13:06:54.458Z","v":0}
+{"name":"newrelic","hostname":"virtue.local","pid":9391,"level":30,"msg":"Starting New Relic for Node.js connection process.","time":"2014-09-01T13:07:08.404Z","v":0}
+{"name":"newrelic","hostname":"virtue.local","pid":9391,"component":"new_relic_response","level":30,"msg":"Reporting to: https://rpm.newrelic.com/accounts/757506/applications/3758898","time":"2014-09-01T13:07:11.201Z","v":0}
+{"name":"newrelic","hostname":"virtue.local","pid":9391,"component":"collector_api","level":30,"msg":"Connected to collector-111.newrelic.com:443 with agent run ID 1439416425.","time":"2014-09-01T13:07:11.202Z","v":0}
+{"name":"newrelic","hostname":"virtue.local","pid":9465,"level":30,"msg":"Starting New Relic for Node.js connection process.","time":"2014-09-01T13:07:49.243Z","v":0}
+{"name":"newrelic","hostname":"virtue.local","pid":9465,"component":"new_relic_response","level":30,"msg":"Reporting to: https://rpm.newrelic.com/accounts/757506/applications/3758898","time":"2014-09-01T13:07:53.247Z","v":0}
+{"name":"newrelic","hostname":"virtue.local","pid":9465,"component":"collector_api","level":30,"msg":"Connected to collector-111.newrelic.com:443 with agent run ID 1439417537.","time":"2014-09-01T13:07:53.247Z","v":0}
