@@ -7,7 +7,6 @@ require('newrelic');
 var express     = require('express'),
     hbs         = require('express-hbs'),
     serveStatic = require('serve-static'),
-    riotKey			= '17a15899-76bb-4317-8227-baa1ad50bc1b',
     compression = require('compression'),
     app         = express(),
     port        = 3000;
